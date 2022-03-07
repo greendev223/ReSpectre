@@ -1,0 +1,7 @@
+spec:
+
+detail:Task 0 is to plot a Histogram with 10K cache hits and 10k cache misses and then determine the threshold
+       From there you try to leak the secret key in task 1
+
+chating: you need to Reproduce spectre variants in c using my given zip file code
+         The task laid out in the zip file is to use TSX for Meltdown proof of concept reproduction
